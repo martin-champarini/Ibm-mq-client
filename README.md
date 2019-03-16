@@ -1,4 +1,4 @@
-#####Running the ibm-mq docker image
+Running the ibm-mq docker image
 
 docker run 
   --env LICENSE=accept \
